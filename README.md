@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sachin407
 - 👀 I’m interested in Full Stack Develoment
-- 🌱 I’m currently learning Javascript, ReactJS, & NodeJS
+- 🌱 I’m currently learning Javascript, ReactJS, & NodeJS Or Python
 - 💞️ I’m looking to collaborate on Web Apps
 - 📫 to reach me sachinmehta441@gmail.com
 
